@@ -11,7 +11,7 @@ class Carousel {
 
         // create a reference to all of the images in the this.carousel DOM reference
         this.images = carousel.querySelectorAll('img')
-        console.log(this.images)
+        //add 
         
         
 
